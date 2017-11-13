@@ -2,7 +2,7 @@
     Inherits System.Web.Mvc.Controller
 
     '@Alghish
-
+    'VB
     Function Index() As ActionResult
         ViewData("Title") = "Home Page"
 
